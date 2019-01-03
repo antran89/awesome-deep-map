@@ -26,7 +26,7 @@ A curated list of resources dedicated to deep learning / computer vision algorit
 - OSM data export tools from HOTOSM, [tool](https://export.hotosm.org/en/v3/exports/new/describe)
 
 ## Datasets
-- [2017-ICCV] TorontoCity: Seeing the World with a Million Eyes [`homepage`](http://www.cs.toronto.edu/~slwang/) [`paper`](http://arxiv.org/abs/1612.00423)
+- [2017-ICCV, `TorontoCity`] TorontoCity: Seeing the World with a Million Eyes [`homepage`](http://www.cs.toronto.edu/~slwang/) [`paper`](http://arxiv.org/abs/1612.00423)
   - Data source: aerial RGB image, streetview panorama, GoPro, stereo image, street-view LIDAR, airborne LIDAR; Maps: buildings and roads, 3D buildings, property meta-data; Tasks: semantic segmentation, building height estimation, instance segmentation, road topology, zoning segmentation and classification.
   - A non-sharing dataset.
 - [2018-arxiv, `SpaceNet`] SpaceNet: A Remote Sensing Dataset and Challenge Series [`paper`](http://arxiv.org/abs/1807.01232)
